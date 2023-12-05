@@ -1,0 +1,37 @@
+.home-background{
+    background-image: url(
+        "file:///C:/Users/vihan/Documents/Restaurant-Landing-Page-Tutorial/src/Assets/Vector.svg"
+            );
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.home-heading{
+color: var(--neutral-1, #141A1E);
+font-family: Poppins;
+margin-left: 300px;
+padding-top: 50px;
+font-size: 48.565px;
+font-style: normal;
+font-weight: 600;
+line-height: 77.704px;
+}
+.home-mddle-p{
+color: var(--neutral-1, #141A1E);
+font-family: Poppins;
+font-size: 68.469px;
+font-style: normal;
+font-weight: 600;
+line-height: 98.984px; 
+padding-left: 200px;
+padding-top: 50px;
+}
+.home-box{
+    display: flex;
+    flex-direction: column;
+}
+.iphone-img{
+    display: flex;
+    align-items: center;
+width: 200px;
+height: 724;
+}
